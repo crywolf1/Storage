@@ -5,7 +5,7 @@ import { GoogleAuthProvider } from "firebase/auth";
 import { getAuth } from "firebase/auth";
 
 
-//copy and paste your own firebase config here!
+//paste your own firebase config here!
 
 
 /*const firebaseConfig = {
